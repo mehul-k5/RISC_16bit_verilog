@@ -1,6 +1,6 @@
 # Design, implementation and testing of 16 bit Multi-cycle RISC processor using verilog
 
-1.The design consists of several sub-modules such as: Instruction and data memory, Register file, Arithmetic logic unit, and Control unit<br \>
+1.The design consists of several sub-modules such as: Instruction and data memory, Register file, Arithmetic logic unit, and Control unit<br/>
 2.The instruction set contains 18 instructions which included different versions of Add, Subtract, Shift, NAND, OR, Jump, Branch, Load, and Store
 3.Verilog system tasks were used for loading instructions given by the user in hexadecimal format and outputting results on a terminal
 4.Intensive testing was performed for all the sub-modules by using various test cases that included boundary cases.
